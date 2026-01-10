@@ -11,11 +11,11 @@
  <a href="https://commerce.coinbase.com/checkout/71737f60-2440-488e-b413-f41e706f024b"><img height="20" src="https://estafaonline.com/wp-content/uploads/2019/02/Coinbase-logo.png" alt="Coinbase"></a>
 </p>
 
-This repository contains all the binaries I compile of the PiKISS project.
+This repository contains all the binaries I compiled for the PiKISS project.
 
-It runs on a *Raspberry Pi 4-5* aarch64 with latest *Raspberry Pi OS* installed.
+They run on *Raspberry Pi 4–5 (aarch64)* with the latest *Raspberry Pi OS* installed.
 
-Just uncompress the tar.gz file and run the binaries you need. Maybe you need to install some dependencies. You can check the dependencies in each PiKISS script. of the project or running the next command:
+Just uncompress the tar.gz file and run the binaries you need. You may need to install some dependencies. You can check the dependencies in each *PiKISS* script of the project or by running the following command:
 
 ```bash
 ldd ./your_binary_file
